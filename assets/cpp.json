@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Aşağıdakilerden Hangisi Rus İmparatorluğu Başkentlerinden biridir?",
+        "2": "Kuruluş Tarihi Hangisidir?",
+        "3": "İlk imparator hangisiydi?",
+        "4": "Rus İmparatorluğu, en geniş sınırlara ulaşmış tarihteki kaçıncı ülkeidir? ",
+        "5": "Hangi Yılda dağılmıştır?"
+    },
+    {
+        "1": {
+            "a": "Rostov ",
+            "b": "Kaliningrad ",
+            "c": "Tomsk ",
+            "d": "Sankt-Peterburg"
+        },
+        "2": {
+            "a": "1721",
+            "b": "1750",
+            "c": "1812",
+            "d": "1655"
+        },
+        "3": {
+            "a": "II. Nikolay",
+            "b": "I. Petro",
+            "c": "II.Sergev",
+            "d": "II. Yekaterina"
+        },
+        "4": {
+            "a": "2.",
+            "b": "1.",
+            "c": "3.",
+            "d": "4."
+        },
+        "5": {
+            "a": "1917",
+            "b": "1929",
+            "c": "1912",
+            "d": "1923"
+        }
+    },
+    {
+        "1": "Sankt-Peterburg",
+        "2": "1721",
+        "3": "I. Petro",
+        "4": "3.",
+        "5": "1917"
+    }
+]

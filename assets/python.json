@@ -1,0 +1,73 @@
+[
+    {
+        "1": "Osmanlığı Devleti hangi olay ile imparatorluk haline gelmiştir",
+        "2": "Osmanlı'nın kurucusu Osman Gazi hangi boydandır?",
+        "3": "Osmanlı'da ilk kardeş katli hangi padişah döneminde gerçekleşmiştir?",
+        "4": "Yıldırım Bayezid 1402 yılında hangi komutanın ordusuna yenilip esir düşmüştür?",
+        "5": "Fatih Sultan Mehmet'in babası kimdir?",
+        "6": "İtalya'nın Otranto şehri hangi padişah döneminde fethedilmiştir?",
+        "7": "Halifelik hangi padişah döneminde Osmanlı'ya geçmiştir?",
+        "8": "Kıbrıs hangi padişah döneminde fethedilmiştir?"
+    },
+    {
+        "1": {
+            "a": "İstanbul'un Fethi",
+            "b": "Mısır'ın Fethi",
+            "c": "Ankara Savaşı",
+            "d": "Kıbrıs'ın Fethi"
+        },
+        "2": {
+            "a": "Kayı",
+            "b": "Bayındırlar",
+            "c": "Selçuklar",
+            "d": "Akkoyunlar"
+        },
+        "3": {
+            "a": "Fatih Sultan Mehmet",
+            "b": "II.Murat",
+            "c": "I.Mahmut",
+            "d": "Yıldırım Bayezid"
+        },
+        "4": {
+            "a": "Şah İsmail",
+            "b": "Timur Han",
+            "c": "Lord Voikan",
+            "d": "El-Teber"
+        },
+        "5": {
+            "a": "I.Methmet",
+            "b": "Yıldırım Bayezid",
+            "c": "II.Murat",
+            "d": "II:Methmet"
+        },
+        "6": {
+            "a": "Kanuni Sultan Süleyman",
+            "b": "Fatih Sultan Mehmed",
+            "c": "Yavuz Sultan Selim",
+            "d": "Yıldırım Bayezid"
+        },
+        "7": {
+            "a": "Yavuz Sultan Selim",
+            "b": "Kanuni Sultan Süleyman",
+            "c": "!.Mahmut",
+            "d": "Fatih Sultan Methmet"
+        },
+        "8": {
+            "a": "II.Selim",
+            "b": "II.Abdülhamit",
+            "c": "I.Abdülhamit",
+            "d": "IV.Murat"
+        }
+
+    },
+    {
+        "1": "İstanbul'un Fethi",
+        "2": "Kayı",
+        "3": "Yıldırım Bayezid",
+        "4": "Timur Han",
+        "5": "II.Murat",
+        "6": "Fatih Sultan Mehmed",
+        "7": "Yavuz Sultan Selim",
+        "8": "II.Selim"
+    }
+]

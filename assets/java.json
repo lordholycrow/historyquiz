@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Roma İmparatorluğu neden doğu ve batı olarak ikiye ayrıldı?",
+        "2": "Aşağıdakilerden hangisi Roma İmparatorluğu başkentlerinden birisi değildir?",
+        "3": "Kuruluş yılı aşağıdakilerden hangisidir",
+        "4": "Batı Roma İmparatorluğu'nun geleneksel çöküş tarihi nedir?",
+        "5": "İlk imparator Kimdir?"
+    },
+    {
+        "1": {
+            "a": "Kavimler Göçü'yle başlayan karışıklıklardan dolayı",
+            "b": "Büyük bir savaş mağlubiyieti ardından",
+            "c": "Şehirler arası ciddi sorunlar çıkmasından kaynaklı",
+            "d": "İmparator'un ölmesinden kaynaklı"
+        },
+        "2": {
+            "a": "Rome",
+            "b": "Pompeii",
+            "c": "Ravenna",
+            "d": "Sirmium"
+        },
+        "3": {
+            "a": "MÖ 32",
+            "b": "MÖ 56",
+            "c": "MÖ 35",
+            "d": "MÖ 27"
+        },
+        "4": {
+            "a": "476",
+            "b": "455",
+            "c": "498",
+            "d": "402"
+        },
+        "5": {
+            "a": "I.Theodosius",
+            "b": "David Komnenos",
+            "c": "Augustus",
+            "d": "Romulus"
+        }
+    },
+    {
+        "1": "Kavimler Göçü'yle başlayan karışıklıklardan dolayı",
+        "2": "Pompeii",
+        "3": "MÖ 27",
+        "4": "476",
+        "5": "Augustus"
+    }
+]

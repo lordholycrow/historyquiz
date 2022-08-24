@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Britanya İmparatorluğu'nun temelleri Hangi 2 Krallığa dayanmaktadır?",
+        "2": "Günümüzde de kullanılan güncel Birleşik Krallık bayrağı kaç yılında ortaya çıkmıştır?",
+        "3": "İmparatorluk daha çok hangi tanımla tanınır",
+        "4": "Birinci Britanya İmparatorluğu hangi yıllar arasında tanımlanır",
+        "5": "Kuzey Amerika ve Karayipler'deki ilk koloni faaliyetleri Kimin izniyle gerçekleşmiştir?"
+    },
+    {
+        "1": {
+            "a": "İngiltere ve İskoçya",
+            "b": " İngiltere ve İrlanda",
+            "c": " İrlanda ve İskoçya",
+            "d": " İngiltere ve Galler"
+        },
+        "2": {
+            "a": "1922",
+            "b": "1923",
+            "c": "1924",
+            "d": "1934"
+        },
+        "3": {
+            "a": "Yenilmez Aslanlar",
+            "b": "Toprak ve Krallık",
+            "c": "Sonsuz Güç",
+            "d": "üzerinde güneş batmayan imparatorluk"
+        },
+        "4": {
+            "a": "1623-1713",
+            "b": "1523-1703",
+            "c": "1583-1783",
+            "d": "1554-1766"
+        },
+        "5": {
+            "a": "I. Elizabeth",
+            "b": " II. Elizabeth",
+            "c": "I. Cook'",
+            "d": "II.Robert"
+        }
+    },
+    {
+        "1": "İngiltere ve İskoçya",
+        "2": "1922",
+        "3": "üzerinde güneş batmayan imparatorluk",
+        "4": "1583-1783",
+        "5": "I. Elizabeth"
+    }
+]

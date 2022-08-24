@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Moğol İmparatorluğu kaç yılında kurulmuştur?",
+        "2": "Hangisi Moğol İmparatorluğu başkenlerinden değildir?",
+        "3": "Cengiz Han'dan sonra Büyük Han olarak kim gelir ?",
+        "4": "İmparatorluk Hangi yılda dağılmıştır ?",
+        "5": "Cengiz Han kaç yaşında ölmüştür ?"
+    },
+    {
+        "1": {
+            "a": "1206",
+            "b": "1212",
+            "c": "1245",
+            "d": "1323"
+        },
+        "2": {
+            "a": "Avarga",
+            "b": "Karakurum",
+            "c": "Hanbalık",
+            "d": "Koklum"
+        },
+        "3": {
+            "a": "Çağatay Han",
+            "b": "Kubilay Han",
+            "c": "Oğuz Han",
+            "d": "Notyu Han"
+        },
+        "4": {
+            "a": "1345",
+            "b": "1368",
+            "c": "1435",
+            "d": "1433"
+        },
+        "5": {
+            "a": "65",
+            "b": "56",
+            "c": "78",
+            "d": "75"
+        }
+    },
+    {
+        "1": "1206",
+        "2": "Koklum",
+        "3": "Kubilay Han",
+        "4": "1368",
+        "5": "65"
+    }
+]
